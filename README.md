@@ -36,12 +36,12 @@ AntiBotPCExplorer brings hardware identifiers, firmware information, TPM evidenc
 
 ## What you can do
 
-| | Capability | What you get |
-|:---:|---|---|
-| <img src="assets/icons/hardware.svg" width="36" height="36" alt=""> | **Explore device identity** | CPU and FPU profiles, firmware, storage, network adapters, displays, PnP devices and Windows identifiers in one place. |
-| <img src="assets/icons/platform.svg" width="36" height="36" alt=""> | **Inspect platform trust** | TPM properties, Secure Boot, VBS/HVCI, boot evidence and kernel driver signature information. |
-| <img src="assets/icons/compare.svg" width="36" height="36" alt=""> | **Compare system snapshots** | Identity cluster comparison, what-if scenarios and field-by-field report differences with volatile fields filtered out. |
-| <img src="assets/icons/offline.svg" width="36" height="36" alt=""> | **Keep diagnostics local** | Offline collection, masked identifiers and privacy-safe JSON exports with HMAC tags. |
+| Capability | What you get |
+|---|---|
+| <img src="assets/icons/hardware.svg" width="36" height="36" alt=""> **Explore device identity** | CPU and FPU profiles, firmware, storage, network adapters, displays, PnP devices and Windows identifiers in one place. |
+| <img src="assets/icons/platform.svg" width="36" height="36" alt=""> **Inspect platform trust** | TPM properties, Secure Boot, VBS/HVCI, boot evidence and kernel driver signature information. |
+| <img src="assets/icons/compare.svg" width="36" height="36" alt=""> **Compare system snapshots** | Identity cluster comparison, what-if scenarios and field-by-field report differences with volatile fields filtered out. |
+| <img src="assets/icons/offline.svg" width="36" height="36" alt=""> **Keep diagnostics local** | Offline collection, masked identifiers and privacy-safe JSON exports with HMAC tags. |
 
 ### Virtualization at a glance
 

@@ -36,12 +36,12 @@ AntiBotPCExplorer tập hợp mã định danh phần cứng, thông tin firmwar
 
 ## Bạn có thể làm gì
 
-| | Khả năng | Thông tin bạn nhận được |
-|:---:|---|---|
-| <img src="assets/icons/hardware.svg" width="36" height="36" alt=""> | **Khám phá danh tính thiết bị** | Hồ sơ CPU và FPU, firmware, thiết bị lưu trữ, bộ điều hợp mạng, màn hình, thiết bị PnP và mã định danh Windows tại cùng một nơi. |
-| <img src="assets/icons/platform.svg" width="36" height="36" alt=""> | **Kiểm tra độ tin cậy của nền tảng** | Thuộc tính TPM, Secure Boot, VBS/HVCI, dữ liệu khởi động và thông tin chữ ký trình điều khiển nhân hệ điều hành. |
-| <img src="assets/icons/compare.svg" width="36" height="36" alt=""> | **So sánh ảnh chụp trạng thái hệ thống** | So sánh theo nhóm danh tính, mô phỏng các tình huống thay đổi và xem khác biệt giữa báo cáo theo từng trường, có bộ lọc bỏ qua các trường thường xuyên thay đổi. |
-| <img src="assets/icons/offline.svg" width="36" height="36" alt=""> | **Giữ hoạt động chẩn đoán trên máy** | Thu thập ngoại tuyến, che mã định danh và xuất báo cáo JSON bảo vệ quyền riêng tư bằng thẻ HMAC. |
+| Khả năng | Thông tin bạn nhận được |
+|---|---|
+| <img src="assets/icons/hardware.svg" width="36" height="36" alt=""> **Khám phá danh tính thiết bị** | Hồ sơ CPU và FPU, firmware, thiết bị lưu trữ, bộ điều hợp mạng, màn hình, thiết bị PnP và mã định danh Windows tại cùng một nơi. |
+| <img src="assets/icons/platform.svg" width="36" height="36" alt=""> **Kiểm tra độ tin cậy của nền tảng** | Thuộc tính TPM, Secure Boot, VBS/HVCI, dữ liệu khởi động và thông tin chữ ký trình điều khiển nhân hệ điều hành. |
+| <img src="assets/icons/compare.svg" width="36" height="36" alt=""> **So sánh ảnh chụp trạng thái hệ thống** | So sánh theo nhóm danh tính, mô phỏng các tình huống thay đổi và xem khác biệt giữa báo cáo theo từng trường, có bộ lọc bỏ qua các trường thường xuyên thay đổi. |
+| <img src="assets/icons/offline.svg" width="36" height="36" alt=""> **Giữ hoạt động chẩn đoán trên máy** | Thu thập ngoại tuyến, che mã định danh và xuất báo cáo JSON bảo vệ quyền riêng tư bằng thẻ HMAC. |
 
 ### Nhìn nhanh về môi trường ảo hóa
 

@@ -36,12 +36,12 @@ AntiBotPCExplorer 將硬體識別碼、韌體資訊、TPM 證據、Windows 身�
 
 ## 您可以做什麼
 
-| | 功能 | 提供的資訊 |
-|:---:|---|---|
-| <img src="assets/icons/hardware.svg" width="36" height="36" alt=""> | **探索裝置身分** | 集中檢視 CPU 與 FPU 特徵、韌體、儲存裝置、網路介面卡、顯示器、PnP 裝置及 Windows 識別碼。 |
-| <img src="assets/icons/platform.svg" width="36" height="36" alt=""> | **檢查平台信任狀態** | TPM 屬性、安全開機、VBS/HVCI、開機證據及核心驅動程式簽章資訊。 |
-| <img src="assets/icons/compare.svg" width="36" height="36" alt=""> | **比較系統快照** | 比較身分資訊群組、模擬不同變更情境，並在排除易變動欄位後逐欄檢視報告差異。 |
-| <img src="assets/icons/offline.svg" width="36" height="36" alt=""> | **在本機完成診斷** | 離線收集資料、遮蔽識別碼，並匯出使用 HMAC 標記的隱私保護 JSON 報告。 |
+| 功能 | 提供的資訊 |
+|---|---|
+| <img src="assets/icons/hardware.svg" width="36" height="36" alt=""> **探索裝置身分** | 集中檢視 CPU 與 FPU 特徵、韌體、儲存裝置、網路介面卡、顯示器、PnP 裝置及 Windows 識別碼。 |
+| <img src="assets/icons/platform.svg" width="36" height="36" alt=""> **檢查平台信任狀態** | TPM 屬性、安全開機、VBS/HVCI、開機證據及核心驅動程式簽章資訊。 |
+| <img src="assets/icons/compare.svg" width="36" height="36" alt=""> **比較系統快照** | 比較身分資訊群組、模擬不同變更情境，並在排除易變動欄位後逐欄檢視報告差異。 |
+| <img src="assets/icons/offline.svg" width="36" height="36" alt=""> **在本機完成診斷** | 離線收集資料、遮蔽識別碼，並匯出使用 HMAC 標記的隱私保護 JSON 報告。 |
 
 ### 一目了然的虛擬化診斷
 
