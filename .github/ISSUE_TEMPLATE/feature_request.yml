@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest an improvement to AntiBotPCExplorer.
+title: "[Feature] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: What would you like to do?
+      description: Explain your workflow and the result you want.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Suggested behavior
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context

@@ -1,0 +1,18 @@
+# Release executables belong in GitHub Releases.
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.zip
+*.key
+*.pem
+*.pfx
+*.p12
+.env*
+bin/
+obj/
+deps/
+src/
+ui/
+node_modules/

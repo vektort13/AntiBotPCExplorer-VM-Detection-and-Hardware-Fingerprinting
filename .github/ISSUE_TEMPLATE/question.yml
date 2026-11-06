@@ -1,0 +1,16 @@
+name: Usage question
+description: Ask about installation, diagnostic results or reports.
+title: "[Question] "
+labels: [question]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Application and Windows versions
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: English, Русский, Tiếng Việt and 繁體中文 are welcome.
+    validations:
+      required: true
